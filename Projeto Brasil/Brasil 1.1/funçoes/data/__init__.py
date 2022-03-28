@@ -27,4 +27,4 @@ def ano():
             if r == 'N':
                 break
     print('\033[7;34;40mOperação finalizada com sucesso...\033[m\n')
-    sleep(0.5)
+    sleep(0.4)
