@@ -1,7 +1,7 @@
 # Banco Python
  - Exercício com Abstração, Herança, Encapsulamento e Polimorfismo
  - Dicas:
-    ---classe que herda (Herança)
+    '''classe que herda (Herança)
     Pessoa tem nome e idade (com getters)
     Cliente TEM conta (Agregação da classe ContaCorrente ou ContaPoupanca)
     Classes ContaPoupanca e ContaCorrente que herdam de Conta
@@ -15,7 +15,7 @@
     Banco tem contas e clientes (Agregação)
     * Checar se a agência é daquele banco
     * Checar se o cliente é daquele banco
-    * Checar se a conta é daquele banco
+    * Checar se a conta é daquele banco'''
  - Só será possível sacar se passar na autenticação do banco (descrita acima)
 
  
