@@ -1,8 +1,8 @@
 # Banco Python
  - Exercício com Abstração, Herança, Encapsulamento e Polimorfismo
  - Dicas:
-    '''classe que herda (Herança)
-    Pessoa tem nome e idade (com getters)
+    classe que herda (Herança)<br />
+    Pessoa tem nome e idade (com getters)<br />
     Cliente TEM conta (Agregação da classe ContaCorrente ou ContaPoupanca)
     Classes ContaPoupanca e ContaCorrente que herdam de Conta
     ContaCorrente com limite extra
