@@ -53,8 +53,8 @@ else:
     print('\033[0;31mCliente não autenticado.\033[m')
     print(f"{'-=' * 25}")
 # Cliente 3
-'''A agencia do cliente 3 não faz parte da lista de agencia de autenticação
-              somente as agencias [1111, 2222, 3333]'''
+'''A agencia do cliente 3 não faz parte da lista de agência de autenticação
+              somente as agências [1111, 2222, 3333]'''
 if banco.autenticar(cliente3):
     cliente3.conta.depositar(1000)
     cliente3.conta.sacar(200)
