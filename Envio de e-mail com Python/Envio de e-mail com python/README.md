@@ -10,3 +10,10 @@ Usuário SMTP: seu Usuário Completo Gmail (email), por exemplo: Seu_Email@gmail
 Senha SMTP: sua Senha Gmail.<br/>
 Porta SMTP: 587<br/>
 TLS/SSL: requeridos.<br/>
+
+#2ª Etapa – ativar o protocolo IMAP
+
+Faça o login em sua conta Gmail e acesse Configurações
+![t2](https://user-images.githubusercontent.com/96980587/161424594-46b7ba9b-11e8-4a51-b5bf-ea35986e973a.jpg)
+
+Agora siga para aba Encaminhamento e POP/IMAP e ativar IMAP.
