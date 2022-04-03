@@ -1,7 +1,9 @@
-#Projeto Python
+#Projeto Envio de E-mail com Python
+Para utlizar o sistema é preciso liberar o smtp da conta do GMAIL segue abaixo os procedimentos.
 
 #1ª Etapa – Configurar servidor SMTP Gmail
 Primeiro, para que possamos utilizar os serviços do servidor SMTP do Gmail, você precisa permitir o acesso para aplicativos menos seguros.
+https://myaccount.google.com/u/0/lesssecureapps?pli=1
 
 ![t1](https://user-images.githubusercontent.com/96980587/161424278-6c51cf33-9183-43e1-af95-b8f04ed701c2.jpg)
 
