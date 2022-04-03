@@ -42,3 +42,5 @@ def enviaemail(meu_email, minha_senha, nome_cli, meu_nome, email_cliente, assunt
         except Exception as e:
             print('\033[0;31mE-mail não enviado...\033[m')
             print('\033[0;31mErro:\033[m', e)
+
+            
