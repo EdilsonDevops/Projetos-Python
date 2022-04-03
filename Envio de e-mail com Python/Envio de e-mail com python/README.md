@@ -13,7 +13,9 @@ TLS/SSL: requeridos.<br/>
 
 #2ª Etapa – ativar o protocolo IMAP
 
-Faça o login em sua conta Gmail e acesse Configurações
+Faça o login em sua conta Gmail e acesse Configurações<br/>
 ![t2](https://user-images.githubusercontent.com/96980587/161424594-46b7ba9b-11e8-4a51-b5bf-ea35986e973a.jpg)
 
 Agora siga para aba Encaminhamento e POP/IMAP e ativar IMAP.
+![t3](https://user-images.githubusercontent.com/96980587/161424745-d40fa87e-6d3c-4c91-b217-54c3592d6fb6.jpg)
+Clique no botão Salvar Alterações no final da página assim que estiver tudo selecionado.
