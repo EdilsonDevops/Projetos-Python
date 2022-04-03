@@ -1,2 +1,2 @@
 # Python-s-project
-Projetos ultilizando a linguagem python
+Projetos utilizando a linguagem python
