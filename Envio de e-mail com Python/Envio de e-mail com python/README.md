@@ -1,3 +1,12 @@
 #Projeto Python
 
+#1ª Etapa – Configurar servidor SMTP Gmail
+Primeiro, para que possamos utilizar os serviços do servidor SMTP do Gmail, você precisa permitir o acesso para aplicativos menos seguros.
+
 ![t1](https://user-images.githubusercontent.com/96980587/161424278-6c51cf33-9183-43e1-af95-b8f04ed701c2.jpg)
+
+Servidor SMTP: smtp.gmail.com <br/>
+Usuário SMTP: seu Usuário Completo Gmail (email), por exemplo: Seu_Email@gmail.com<br/>
+Senha SMTP: sua Senha Gmail.<br/>
+Porta SMTP: 587<br/>
+TLS/SSL: requeridos.<br/>
